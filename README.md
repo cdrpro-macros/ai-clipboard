@@ -14,6 +14,10 @@ This macro allows you copy/paste vector and raster objects between CorelDRAW and
 
 * EnglishUS
 
+## Documentation
+
+* [How to build and install](https://github.com/cdrpro-macros/build-and-Install-csharp-macros)
+
 ## License
 
 Copyright © 2016 [Sancho](http://cdrpro.ru/en/)
